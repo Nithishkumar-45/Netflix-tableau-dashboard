@@ -17,6 +17,11 @@ This project analyzes Netflix content based on:
 The dashboard converts raw Netflix data into interactive visualizations that make it easier to explore and understand the platform's content library.
 
 ## 📊 Dashboard Preview
+### 🔗 Live Dashboard
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/nithish.kumar1626/viz/tablueank/netflixdashboard?publish=yes)
+
+![Netflix Dashboard](screenshots/dashboard.png)
 
 ![Netflix Dashboard](screenshots/dashboard.png)
 
